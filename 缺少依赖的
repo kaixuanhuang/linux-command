@@ -1,0 +1,2 @@
+rm -rf /var/lib/dpkg/info/adobe-flashplugin*
+sudo dpkg --remove --force-remove-reinstreq adobe-flashplugin
